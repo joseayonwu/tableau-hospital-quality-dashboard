@@ -1,15 +1,15 @@
-# 🏥 Hospital Quality Intelligence Dashboard  
+# Hospital Quality Intelligence Dashboard  
 *Interactive Tableau project analyzing U.S. hospital performance*
 
 ---
 
-## 🎯 Objective
+## Objective
 This project delivers an executive-ready Tableau dashboard that analyzes hospital quality metrics across the United States.  
 It applies advanced visualization techniques — **data blending, LOD expressions, forecasting, and parameter-driven sensitivity analysis** — to explore how **ownership, staffing, and geography** affect healthcare outcomes.
 
 ---
 
-## 🧠 Data Preparation
+## Data Preparation
 The dataset is based on the **CMS Hospital General Information** database, complemented with two synthetic variables:
 - **Staff-to-Patient Ratio**
 - **Average Readmission Cost per Provider ID**
@@ -22,7 +22,7 @@ Data was cleaned and transformed in **Tableau Prep**:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - **Voluntary (non-profit)** hospitals lead overall quality metrics.  
 - **Private (for-profit)** hospitals perform strongly in Safety & Timeliness but underperform in Readmission.  
 - **Government** hospitals align near the national average, with Mortality below benchmark.  
@@ -31,7 +31,7 @@ Data was cleaned and transformed in **Tableau Prep**:
 
 ---
 
-## ⚙️ Dashboard Features
+## Dashboard Features
 - KPI panel comparing **State vs National averages**
 - Ownership performance benchmarking  
 - Trend analysis of **Staff Ratio → Quality metrics**  
@@ -40,7 +40,7 @@ Data was cleaned and transformed in **Tableau Prep**:
 
 ---
 
-## 🖼️ Project Preview
+## Project Preview
 | Section | Screenshot |
 |----------|-------------|
 | Overview | ![Overview](images/overview.png) |
@@ -50,19 +50,19 @@ Data was cleaned and transformed in **Tableau Prep**:
 
 ---
 
-## 🧭 Tools & Skills
+## Tools & Skills
 **Tableau Desktop** • **Tableau Prep** • Data Blending • LOD Expressions • KPI Design • Sensitivity Analysis • Storytelling with Data • Healthcare Analytics
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 - **Interactive Dashboard (Tableau Public)** → [View Dashboard](https://public.tableau.com/app/profile/jose.ayon3486/viz/HospitalQualityDashboardU_S_HospitalPerformanceInsights/MainInsights)  
 - **Full Report (PDF)** → [Download Report](Hospital_Quality_Analysis_Report_JoseAyonWu.pdf)  
 - **Author LinkedIn** → [Jose Ayon Wu](https://www.linkedin.com/in/joseayonwu)  
 
 ---
 
-### 📝 License
+### License
 Released under the [MIT License](https://opensource.org/licenses/MIT).  
 © 2025 Jose Ayon Wu | Data Analytics Portfolio
 
